@@ -1,0 +1,14 @@
+@charset 'utf-8';
+
+/* header */
+.header>.container{margin:0 auto;}
+.header_top{display:flex;flex-flow:row nowrap;justify-content:space-between;align-items:center;}
+.header_top>.logo{width:370px;}
+.header_top>.logo img{width:100%;}
+.header_top>.sns>ul{display:flex;}
+.header_top>.sns>ul>.fb img,.header_top>.sns>ul>.inst img{width:40px;}
+.header_top>.sns>ul>.inst{margin-left:60px;}
+
+.header_nav{padding-bottom:20px;border-bottom:1px solid #999;}
+.header_nav>ul{display:flex;flex-flow:row nowrap;justify-content:space-between;}
+.header_nav>ul>li>a{font-size:30px;font-weight:bold;color:#000;}

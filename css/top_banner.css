@@ -1,0 +1,6 @@
+@charset 'utf-8';
+
+/* top_banner */
+.top_banner>.container{box-sizing:border-box;border-bottom:1px solid #999;position:relative;}
+.top_banner>.container>.img_box>img{width:100%;}
+.top_banner>.container>.top_banner_txt p{color:#ae6e21;font-size:50px;font-weight:bold;position:absolute;right:11px;top:126px;}

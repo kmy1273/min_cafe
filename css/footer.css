@@ -1,0 +1,9 @@
+@charset 'utf-8';
+
+/* footer */
+.footer>.container{height:200px;margin-top:15px;border-top:1px solid #999;}
+.footer>.container>.footer_box>.f_logo>img{margin-top:-25px;margin-bottom:-20px;}
+.footer>.container>.footer_box>p{color:#333;font-size:20px;line-height:30px;}
+.familysite{border:1px solid black;float:right;width:170px;height:25px;box-sizing:border-box;}
+.franchise_store>.container>.store>.search{position:absolute;width:20px;height:20px;border:2px solid #000;border-radius:50%;right:130px;bottom:40px;cursor:pointer;}
+.franchise_store>.container>.store>.search:before{content:'';position:absolute;width:13px;height:13px;transform:rotate(-45deg);border-left:2px solid #000;right:-15px;bottom:-3px;cursor:pointer;}

@@ -1,0 +1,7 @@
+@charset 'utf-8';
+
+/* main_banner */
+.main_banner>.container{display:flex;flex-flow:row nowrap;justify-content:space-between;padding:40px 25px;}
+.main_banner>.container>.main_banner_txt{display:flex;flex-flow:column nowrap;justify-content:space-between;}
+.main_banner>.container>.main_banner_txt>p:first-child{color:#9b5123;font-size:49px;font-weight:bold;line-height:50px;}
+.main_banner>.container>.main_banner_txt>p:last-child{color:#000;font-size:49px;font-weight:bold;line-height:50px;}
